@@ -88,7 +88,6 @@ img{
     display:flex;
     flex-direction: column;
     align-items: center;
-
 }
 
 img:hover{
@@ -104,9 +103,7 @@ img:hover{
 }
 
 p {
-    display:inline-flex;
-    margin-left:30%;
-    position:inherit;
+    display:flex;
     font-size:30px;
     justify-content: center;
     color: rgb(255, 255, 255);
